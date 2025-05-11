@@ -2,11 +2,7 @@
 
 **Welcome to my GitHub profile!**  
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Data+Analyst+%7C+BI+developer+" alt="Typing Animation" />
-</h3>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=power+BI+developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00AAFF&width=435&lines=Data+Analyst+%7C+BI+Developer;Power+BI+Specialist+%7C+SQL+Expert;Business+Intelligence+Consultant" alt="Professional Role Animation" />
 </h3>
 
 🔹 **About Me:**  
