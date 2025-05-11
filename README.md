@@ -1,8 +1,9 @@
 # Ziad Mohamed Ali 👋
 
 **Welcome to my GitHub profile!**  
-  Data Analyst | Bi developer
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Data+Analyst+%7C+BI+Specialist+%7C+SQL+Expert" alt="Typing Animation" />
+</h3>
 🔹 **About Me:**  
 - 🏢 I'm a BI Specialist. 
 - 👨‍💻 As an Engineering graduate, I'm constantly learning and exploring new technologies to improve my skills.
