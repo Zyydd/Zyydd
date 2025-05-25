@@ -21,12 +21,16 @@
 ### **Tech Stack**  
 | Data Analysis       | BI Tools          | Databases       | Languages       |  
 |---------------------|-------------------|-----------------|-----------------|  
-| SQL                 | Power BI          | PostgreSQL      | Python          |  
-| Excel               | Tableau           | MongoDB         | C programming   |  
+| SQL                 | Power BI          | MongoDB         | Python          |  
+| Excel               | Tableau           |                 | C programming   |  
 |                     | SSIS SSAS SSRS 
 ---
 
 ### **Popular Repositories**  
+  
+
+ - 📚 [Gravity Book store Analysis]([https://github.com/your-repo-link](https://github.com/Zyydd/Gravity-Bookstore-Analysis))  
+  - SQL + SSIS + power bi    
 - 🔍 [AdventureWorks Data Analysis]([https://github.com/your-repo-link](https://github.com/Zyydd/Adventure-Works-Sales-Analysis-Excel-PowerQuery-PivotTables))  
   - SQL + Xcel.  
 - 🏪 [Blinkit Sales Analysis]([https://github.com/your-repo-link](https://github.com/Zyydd/Blinkit-Sales-analysis-))  
